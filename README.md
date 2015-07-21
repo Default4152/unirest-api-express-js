@@ -14,7 +14,7 @@
 
 ## Success
 
-Through this lesson you will build an express app that consumes the NYT API. You can see an example of the working app here: https://dry-shelf-2130.herokuapp.com/books
+Through this lesson you will build an express app that consumes the NYT API. You can see an example of the working app here: https://lit-basin-2380.herokuapp.com/
 
 Note: The styles don't have to match, but take note of the attributes we are displaying here: the title, the author, and the image.
 
